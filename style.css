@@ -1,0 +1,129 @@
+body {
+  font-family: sans-serif;
+  color: rgb(17, 156, 52);
+  background-color: aliceblue;
+}
+
+.name {
+  font-size: 60px;
+  font-family: "Times New Roman";
+}
+
+.home1 {
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  font-family: sans-serif;
+}
+
+.home {
+  font-family: sans-serif;
+  color: blue;
+}
+
+.login {
+  font-family: sans-serif;
+  color: blue;
+}
+
+.register {
+  font-family: sans-serif;
+  color: blue;
+}
+
+.catalogue {
+  font-family: sans-serif;
+  color: blue;
+}
+
+.book {
+  font-family: sans-serif;
+  color: blue;
+}
+
+.services {
+  font-family: sans-serif;
+  color: brown;
+  padding-top: 10px;
+}
+
+.general {
+  font-family: sans-serif;
+  color: blue;
+  padding-top: 10px;
+}
+
+.oil {
+  font-family: sans-serif;
+  color: blue;
+  padding-top: 10px;
+}
+
+.login1 {
+  padding-top: 50px;
+  padding-left: 540px;
+}
+
+.login-button {
+  padding-left: 110px;
+  padding-right: 110px;
+}
+
+.register1 {
+  padding-top: 50px;
+  padding-left: 500px;
+}
+
+.register-button {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.login-username {
+  padding-right: 28px;
+}
+
+.login-password {
+  padding-right: 30px;
+}
+
+.register-username {
+  padding-right: 125px;
+}
+
+.register-password {
+  padding-right: 128px;
+}
+
+.confirm-password {
+  padding-right: 68px;
+}
+
+.booking-form {
+  padding-left: 540px;
+}
+
+.customer-name {
+  padding-right: 80px;
+}
+
+.contact-no {
+  padding-right: 6px;
+}
+
+.mail {
+  padding-right: 83px;
+}
+
+.service-type {
+  padding-right: 58px;
+}
+
+.date {
+  padding-right: 40px;
+}
+
+.book-button {
+  padding-left: 106px;
+  padding-right: 106px;
+}

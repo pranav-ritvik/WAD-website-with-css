@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bookings</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1 align="center">Book Your Service</h1>
+    <form class="booking-form">
+      <label for="name">Name:</label>
+      <input name="name" type="text" class="customer-name" />
+      <br /><br />
+
+      <label for="contact">Contact Number:</label>
+      <input name="contact" type="text" class="contact-no" />
+      <br /><br />
+
+      <label for="email">Email:</label>
+      <input name="email" type="email" class="mail" />
+      <br /><br />
+
+      <label for="service">Service Type:</label>
+      <select name="service" class="service-type">
+        <option value="oil-change">Oil Change</option>
+        <option value="general-service">General Service</option>
+        <option value="other">Other</option>
+      </select>
+      <br /><br />
+
+      <label for="date">Preferred Date:</label>
+      <input name="date" type="date" class="date" />
+      <br /><br />
+
+      <input name="submit" type="submit" value="Book Now" class="book-button" />
+    </form>
+  </body>
+</html>
